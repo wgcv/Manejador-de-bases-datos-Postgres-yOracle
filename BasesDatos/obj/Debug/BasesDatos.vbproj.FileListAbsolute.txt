@@ -1,0 +1,13 @@
+c:\users\gstav\onedrive\documentos\visual studio 2015\Projects\BasesDatos\BasesDatos\bin\Debug\BasesDatos.exe.config
+c:\users\gstav\onedrive\documentos\visual studio 2015\Projects\BasesDatos\BasesDatos\bin\Debug\BasesDatos.exe
+c:\users\gstav\onedrive\documentos\visual studio 2015\Projects\BasesDatos\BasesDatos\bin\Debug\BasesDatos.pdb
+c:\users\gstav\onedrive\documentos\visual studio 2015\Projects\BasesDatos\BasesDatos\bin\Debug\BasesDatos.xml
+c:\users\gstav\onedrive\documentos\visual studio 2015\Projects\BasesDatos\BasesDatos\obj\Debug\BasesDatos.vbprojResolveAssemblyReference.cache
+c:\users\gstav\onedrive\documentos\visual studio 2015\Projects\BasesDatos\BasesDatos\obj\Debug\BasesDatos.Form1.resources
+c:\users\gstav\onedrive\documentos\visual studio 2015\Projects\BasesDatos\BasesDatos\obj\Debug\BasesDatos.Login.resources
+c:\users\gstav\onedrive\documentos\visual studio 2015\Projects\BasesDatos\BasesDatos\obj\Debug\BasesDatos.Resources.resources
+c:\users\gstav\onedrive\documentos\visual studio 2015\Projects\BasesDatos\BasesDatos\obj\Debug\BasesDatos.vbproj.GenerateResource.Cache
+c:\users\gstav\onedrive\documentos\visual studio 2015\Projects\BasesDatos\BasesDatos\obj\Debug\BasesDatos.exe
+c:\users\gstav\onedrive\documentos\visual studio 2015\Projects\BasesDatos\BasesDatos\obj\Debug\BasesDatos.xml
+c:\users\gstav\onedrive\documentos\visual studio 2015\Projects\BasesDatos\BasesDatos\obj\Debug\BasesDatos.pdb
+C:\Users\gstav\OneDrive\Documentos\Visual Studio 2015\Projects\BasesDatos\BasesDatos\obj\Debug\BasesDatos.Usr.resources
